@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Summarizer Bot",
+  "description": "An application to fetch recent videos from a list of YouTube channels, summarize their transcripts using the Gemini API, and send the summaries to a Telegram group.",
+  "requestFramePermissions": []
+}

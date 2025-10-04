@@ -1,0 +1,14 @@
+
+# ==================================
+# YouTube Channel ID List
+# ==================================
+# - Add one valid YouTube channel ID per line.
+# - Lines starting with a '#' are ignored as comments.
+# - You can find a channel's ID in its URL (it starts with 'UC').
+
+# AI Channels
+UCbfYPyITQ-7l4upoX8nvctg
+UC5A0TPwJK7XNkCUjyPXJ8Ag
+
+# Entrepreneurship Channels
+UCjgw3sAMzFGdkxOEXyRh6Xw
